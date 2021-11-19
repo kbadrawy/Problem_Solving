@@ -1,0 +1,5 @@
+.idea
+.settings
+.bin
+# Project exclude paths
+/bin/
